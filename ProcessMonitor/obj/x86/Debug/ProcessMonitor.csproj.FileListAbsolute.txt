@@ -1,0 +1,7 @@
+C:\Users\tomo\source\repos\ProcessMonitor\ProcessMonitor\bin\x86\Debug\ProcessMonitor.exe.config
+C:\Users\tomo\source\repos\ProcessMonitor\ProcessMonitor\bin\x86\Debug\ProcessMonitor.exe
+C:\Users\tomo\source\repos\ProcessMonitor\ProcessMonitor\bin\x86\Debug\ProcessMonitor.pdb
+C:\Users\tomo\source\repos\ProcessMonitor\ProcessMonitor\obj\x86\Debug\ProcessMonitor.csprojAssemblyReference.cache
+C:\Users\tomo\source\repos\ProcessMonitor\ProcessMonitor\obj\x86\Debug\ProcessMonitor.csproj.CoreCompileInputs.cache
+C:\Users\tomo\source\repos\ProcessMonitor\ProcessMonitor\obj\x86\Debug\ProcessMonitor.exe
+C:\Users\tomo\source\repos\ProcessMonitor\ProcessMonitor\obj\x86\Debug\ProcessMonitor.pdb
